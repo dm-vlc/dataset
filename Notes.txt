@@ -1,0 +1,12 @@
+F-father
+M-mother
+D-daughter
+S-son
+L-left
+R-right
+
+Sample:
+1-d-l
+First family-daughter-left ear
+5-f-r
+5th family-father-right ear
